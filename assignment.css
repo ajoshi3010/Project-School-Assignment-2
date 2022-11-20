@@ -1,0 +1,30 @@
+.style{
+    display: flex;
+    justify-content: center;
+    
+}
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(235, 200, 230);
+}
+table{
+    display: flex;
+    justify-content: center;
+}
+.academic, .acth, .actd {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+.actd {
+    background-color: rgb(255, 192, 251);
+  }
+.acth{
+    background-color: rgba(232, 175, 184, 0.703);
+  }
+  hr {
+    width: 10%;
+    border: 6px dotted;
+    border-style: none none dotted;
+    color: grey
+  }
